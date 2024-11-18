@@ -1,4 +1,4 @@
-# 🛡️ Sistema de Seguridad de Red Inteligente para el Hogar
+# 🛡️ Sistema de Seguridad de Red Inquebrantable para el Hogar
 
 Este proyecto describe un sistema eficiente y seguro de red doméstica diseñado para proteger datos personales, ahorrar energía y proporcionar flexibilidad para diversas necesidades como ofimática, programación y gaming. Combina hardware accesible con software de firewall avanzado y configuraciones personalizables para maximizar la seguridad y la eficiencia.
 
