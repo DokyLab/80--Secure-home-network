@@ -97,7 +97,7 @@ This project outlines the implementation of an efficient and secure home network
 
 ## 🤝 Contributions and Questions
 
-Have ideas to improve this system or any questions about its implementation? Feel free to contact me at **d.o.k.y** or open an **issue** in this repository. All suggestions are welcome!
+Have ideas to improve this system or any questions about its implementation? Feel free to contact me at **d.o.k.y** on Discord, or open an **issue** in this repository.
 
 ---
 
